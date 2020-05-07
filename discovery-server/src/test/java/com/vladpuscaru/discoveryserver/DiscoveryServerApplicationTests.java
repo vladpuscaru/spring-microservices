@@ -1,10 +1,10 @@
-package com.vladpuscaru.moviecatalogservice;
+package com.vladpuscaru.discoveryserver;
 
-import org.junit.Test;
+import org.junit.jupiter.api.Test;
 import org.springframework.boot.test.context.SpringBootTest;
 
 @SpringBootTest
-class MovieCatalogServiceApplicationTests {
+class DiscoveryServerApplicationTests {
 
 	@Test
 	void contextLoads() {
